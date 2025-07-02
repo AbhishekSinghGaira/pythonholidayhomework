@@ -11,4 +11,4 @@ for i in Seta:
     else:
         a.append(i)
 
-print(f'The common elemnts of setA and setB is {a}')
+print(f'The union  of setA and setB is {a}')
